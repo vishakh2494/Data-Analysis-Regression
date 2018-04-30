@@ -6,5 +6,4 @@ This data was then portioned among the team members based on months (quarterly).
 
 The outcomes and observations of this analysis can be used by the citizens to improve their understanding of local weather. These outcomes can further be used by the tourists and tourism department of Hungary for better tourist experience.
 
-![android welcome screen](https://user-images.githubusercontent.com/31784058/39415519-f0f05746-4c09-11e8-9596-aba9eafd87f1.png)
 
